@@ -15,3 +15,6 @@ Install [this bookmarklet](https://abrudz.github.io/lb/apl) that allows you to t
 # Links
 
 - [Install the Dyalog Jupyter kernel](https://github.com/Dyalog/dyalog-jupyter-kernel/wiki/1.-Offline-usage#install-the-dyalog-jupyter-kernel)
+- [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
+- [Programming in APL](http://aplclass.com/book/)
+- [Learning APL](https://xpqz.github.io/learnapl/intro.html)
