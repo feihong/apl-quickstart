@@ -10,7 +10,7 @@ Download .pkg file from https://www.dyalog.com/download-zone.htm and run it
     rm -rf dyalog-jupyter-kernel-master
     rm master.zip
 
-Install [this bookmarklet](https://abrudz.github.io/lb/apl) that allows you to type APL symbols.
+Install [this bookmarklet](https://abrudz.github.io/lb/apl) that allows you to type APL symbols in the browser.
 
 # Links
 
@@ -18,3 +18,5 @@ Install [this bookmarklet](https://abrudz.github.io/lb/apl) that allows you to t
 - [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
 - [Programming in APL](http://aplclass.com/book/)
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- [Dyalog APL Tutor](https://tutorial.dyalog.com/)
+- [APL Problem Solving Competition](https://www.dyalog.com/student-competition.htm)
