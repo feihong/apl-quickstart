@@ -12,6 +12,12 @@ Download .pkg file from https://www.dyalog.com/download-zone.htm and run it
 
 Install [this bookmarklet](https://abrudz.github.io/lb/apl) that allows you to type APL symbols in the browser.
 
+## Commands
+
+Start JupyterLab
+
+    jupyter-lab
+
 # Links
 
 - [Install the Dyalog Jupyter kernel](https://github.com/Dyalog/dyalog-jupyter-kernel/wiki/1.-Offline-usage#install-the-dyalog-jupyter-kernel)
