@@ -26,3 +26,7 @@ Start JupyterLab
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
 - [Dyalog APL Tutor](https://tutorial.dyalog.com/)
 - [APL Problem Solving Competition](https://www.dyalog.com/student-competition.htm)
+
+## Notes
+
+When you use `]dinput`, you can't put comments before the first bracket of the Dfn definition.
