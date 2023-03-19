@@ -22,6 +22,7 @@ Start JupyterLab
 
 - [Install the Dyalog Jupyter kernel](https://github.com/Dyalog/dyalog-jupyter-kernel/wiki/1.-Offline-usage#install-the-dyalog-jupyter-kernel)
 - [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
+- [Learning APL](https://github.com/xpqz/learnapl)
 - [Programming in APL](http://aplclass.com/book/)
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
 - [Dyalog APL Tutor](https://tutorial.dyalog.com/)
