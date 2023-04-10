@@ -12,6 +12,14 @@ Download .pkg file from https://www.dyalog.com/download-zone.htm and run it
 
 Install [this bookmarklet](https://abrudz.github.io/lb/apl) that allows you to type APL symbols in the browser.
 
+Install Py'n'APL, an interface between Dyalog APL and Python
+
+    git clone --depth 1 https://github.com/Dyalog/pynapl
+    cd pynapl
+    pip install --editable .
+
+If you see the error `Dyalog APL could not initialise because the script file could not be opened` when trying to work with `pynapl`, edit the code as described in [this issue](https://github.com/Dyalog/pynapl/issues/16#issuecomment-998383128).
+
 ## Commands
 
 Start JupyterLab
@@ -25,6 +33,7 @@ Start JupyterLab
 - [Learning APL](https://github.com/xpqz/learnapl)
 - [Programming in APL](http://aplclass.com/book/)
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- [Nomenclature: Functions and Operators](https://docs.dyalog.com/18.0/CheatSheet%20-%20Nomenclature%20-%20Functions%20and%20Operators.pdf)
 - [Dyalog APL Tutor](https://tutorial.dyalog.com/)
 - [APL Problem Solving Competition](https://www.dyalog.com/student-competition.htm)
 
