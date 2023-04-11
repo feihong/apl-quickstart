@@ -23,6 +23,10 @@ def run_examples():
         yield f'\n### {m.group(1)}\n\n'
         continue
 
+      if line.startswith('⎕'):
+        apl.eval(line)
+        continue
+
       result = apl.eval(line)
       yield f'    {line}  -->  {result}\n'
 

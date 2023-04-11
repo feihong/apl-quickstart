@@ -33,6 +33,8 @@ Start JupyterLab
 - [Learning APL](https://github.com/xpqz/learnapl)
 - [Programming in APL](http://aplclass.com/book/)
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- [Primitive functions](https://aplwiki.com/wiki/Category:Primitive_functions)
+- [Primitive operators](https://aplwiki.com/wiki/Category:Primitive_operators)
 - [Nomenclature: Functions and Operators](https://docs.dyalog.com/18.0/CheatSheet%20-%20Nomenclature%20-%20Functions%20and%20Operators.pdf)
 - [Dyalog APL Tutor](https://tutorial.dyalog.com/)
 - [APL Problem Solving Competition](https://www.dyalog.com/student-competition.htm)
