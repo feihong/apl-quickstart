@@ -28,7 +28,7 @@ def run_examples():
         continue
 
       result = apl.eval(line)
-      yield f'    {line}  -->  {result}\n'
+      yield f'    {line}  -->  {result!r}\n'
 
 with output_file.open('w') as fp:
   fp.write('# Cheatsheet\n')
